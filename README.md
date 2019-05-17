@@ -24,7 +24,11 @@ GitHub 上关于**对抗样本**的 repo
 [FeatureSqueezing](https://github.com/uvasrg/FeatureSqueezing)   | 防御  | *Detecting Adversarial Examples in Deep Neural Network*。项目停止维护，移至[EvadeML-Zoo](http://evademl.org/zoo/)
 [adversarial-example-pytorch](https://github.com/sarathknv/adversarial-examples-pytorch)   | 攻击  | pytorch 实现常用攻击方法，并且提供**可视化**功能。
 [EvadeML-Zoo](https://github.com/mzweilin/EvadeML-Zoo)   | 攻击&防御  | 提供预训练模型，常用数据集，常用攻击方法；可视化对抗样本。
-
+[robust-physical-attack](https://github.com/shangtse/robust-physical-attack)  | 攻击  | 现实情境中攻击`Faster R-CNN`目标检测模型，提供`targeted` & `untargeted`两种攻击方式。
+[advertorch](https://github.com/BorealisAI/advertorch)  | 攻击 & 防御  | [foolbox](https://github.com/bethgelab/foolbox/) 的精简版，`pytorch`实现，只提供了一部分的攻击和防御方法。
+[Non-Targeted-Adversarial-Attacks](https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks)  | 攻击  | [NIPS 2017对抗样本攻防大赛](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack) `Non-targeted attack`第一名。
+[Targeted-Adversarial-Attack](https://github.com/dongyp13/Targeted-Adversarial-Attack)   | 攻击  | 同样是 NIPS 2017 攻防大赛中 `Targeted attack`第一名，作者还是清华大学**朱军**团队。
+[artificial-adversary](https://github.com/airbnb/artificial-adversary)  | 攻击  | 文本模态的对抗样本，由`airbnb`开发。
 ### 相关竞赛
 * [NIPS 2017: Defense Against Adversarial Attack](https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack)
 * [IJCAI-19阿里巴巴人工智能对抗算法竞赛](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281905.5490641.4.358b6bad39hWbP)
